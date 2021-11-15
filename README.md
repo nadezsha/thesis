@@ -1,2 +1,2 @@
 # thesis
-self explanatory 
+a study of the solar radiation 
