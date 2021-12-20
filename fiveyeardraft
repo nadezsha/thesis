@@ -1,0 +1,5 @@
+clear_conditions_interpolated_function = nef(clrawper, clobper)
+
+all_time_satellite_data = read_the_data()
+
+predicted_earth_data = clear_conditions_interpolared_function(all_time_satellite_data)
